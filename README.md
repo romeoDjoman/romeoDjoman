@@ -1,5 +1,5 @@
 # 👋 Bienvenue sur mon profil GitHub !
-Je suis Roméo DJOMAN (pronom, Il), un développeur passionné avec un parcours singulier : une transition de la recherche scientifique en Biologie au développement d'applications web et mobiles.
+Je suis Roméo DJOMAN, un développeur passionné avec un parcours singulier : une transition de la recherche scientifique en Biologie au développement d'applications web et mobiles.
 
 ### 🌱 Mon parcours
 Diplômé en Sciences du Végétal (Master 2), j'ai travaillé pendant plusieurs années sur des projets innovants en phytopathologie, microbiologie, et biologie moléculaire. De l'élaboration de protocoles expérimentaux à la rédaction d'articles scientifiques.
