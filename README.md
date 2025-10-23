@@ -9,7 +9,7 @@
 
 Développeur passionné avec une double culture en **biologie moléculaire** (Master AgroParisTech) et en **ingénierie logicielle**. Fort d'une première expérience en recherche (phytopathologie, microbiologie), j'ai cultivé une rigueur analytique et une approche méthodique que j'applique aujourd'hui au développement web.
 
-Ma reconversion m'a permis de maîtriser l'écosystème **Java/Spring** et **Angular**, en réalisant des projets concrets qui démontrent ma capacité à construire des applications full-stack performantes et sécurisées.
+Ma reconversion m'a permis de maîtriser l'écosystème **Java/Spring**, **Python** et **Angular**, en réalisant des projets concrets qui démontrent ma capacité à construire des applications full-stack performantes et sécurisées.
 
 - 🌱 **Mon ambition :** Mettre ma rigueur scientifique au service de la création d'applications web, en particulier à l'intersection de la science et de la technologie.
 - 👀 **Ce qui me motive :** Concevoir des outils qui ont un impact réel, qu'il s'agisse d'optimiser la recherche ou de simplifier des processus complexes.
@@ -24,7 +24,7 @@ Voici les technologies avec lesquelles je travaille le plus :
 | Backend         | Frontend                | Data & Bio-info   | Outils & DevOps        |
 | --------------- | ----------------------- | ----------------- | ---------------------- |
 | `Java`          | `Angular`               | `R` / `Rstudio`   | `Git` / `GitHub`       |
-| `Spring Boot`   | `TypeScript`            | `Python`          | `Docker`               |
+| `Spring Boot`   | `TypeScript`            | `Python` `BioPython`        | `Docker`               |
 | `Spring Security` | `JavaScript (ES6+)`     | `SQL` (`PostgreSQL`) | `Linux` / `Bash`       |
 | `JPA` / `Hibernate`| `HTML5` / `SCSS`        | `BLAST` / `NCBI`  | `Maven` / `IntelliJ`   |
 | `PHP` / `Symfony` | `RxJS`                  | `QTL` / `GWAS`    | `Postman`              |
@@ -41,26 +41,29 @@ Voici les technologies avec lesquelles je travaille le plus :
 
 Voici une sélection de projets qui illustrent mes compétences. N'hésitez pas à explorer les dépôts !
 
-<table>
-  <tr>
-    <td width="50%">
-      <a href="URL_VERS_VOTRE_PROJET_PHYTOMARKER_DB">
-        <strong>PhytoMarker-DB | Recherche en Génétique Végétale</strong>
-      </a>
-      <br />
-      <p>Application web full-stack pour la recherche et la visualisation de données génétiques, avec un pedigree interactif en <strong>D3.js</strong> et des dashboards statistiques.</p>
-      <small><i>Technologies : Angular, Java/Spring Boot, PostgreSQL, D3.js, Ngx-charts</i></small>
-    </td>
-    <td width="50%">
-      <a href="URL_VERS_VOTRE_PROJET_GENOTRACK_LIMS">
-        <strong>GenoTrack-LIMS | Gestion de Laboratoire</strong>
-      </a>
-      <br />
-      <p>Système de traçabilité d'échantillons biologiques avec authentification sécurisée (JWT) et gestion des rôles (Technicien, Chercheur).</p>
-      <small><i>Technologies : Angular, Java/Spring Boot, Spring Security, PostgreSQL</i></small>
-    </td>
-  </tr>
-</table>
+Voici une sélection de projets qui illustrent mes compétences. N'hésitez pas à explorer les dépôts !
+
+#### 🔗 [Flinsc Legal](URL_VERS_VOTRE_PROJET_FLINSC_LEGAL)
+*Plateforme Full-Stack de Services Juridiques*
+
+Application web et mobile complète pour le secteur juridique. J'ai géré l'ensemble du cycle de vie du projet : conception de l'API REST sécurisée avec Spring Boot et JWT, intégration d'un frontend réactif avec Angular/Ionic, et déploiement sur le cloud **AWS EC2** avec **Docker**.
+> *Technologies : `Java`, `Spring Boot`, `Angular`, `Ionic`, `JWT`, `PostgreSQL`, `Docker`, `AWS EC2`*
+
+---
+
+#### 🔗 [PhytoMarker-DB](URL_VERS_VOTRE_PROJET_PHYTOMARKER_DB)
+*Application de Recherche en Génétique Végétale*
+
+Plateforme de recherche et de visualisation de données génétiques. Le point fort de ce projet est son interface de visualisation de **pedigree** interactive, entièrement développée avec **D3.js**, et ses dashboards statistiques pour l'analyse de cohortes.
+> *Technologies : `Angular`, `Java/Spring Boot`, `PostgreSQL`, `D3.js`, `Ngx-charts`*
+
+---
+
+#### 🔗 [GenoTrack-LIMS](URL_VERS_VOTRE_PROJET_GENOTRACK_LIMS)
+*Système de Gestion d'Information de Laboratoire (LIMS)*
+
+Solution de traçabilité pour les échantillons biologiques. Ce projet met en avant une architecture backend solide avec une gestion fine des autorisations par rôle (RBAC) grâce à Spring Security, assurant l'intégrité et la sécurité des données de recherche.
+> *Technologies : `Angular`, `Java/Spring Boot`, `Spring Security`, `JWT`, `PostgreSQL`*
 
 ---
 
