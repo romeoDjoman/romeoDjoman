@@ -1,29 +1,77 @@
-# 👋 Bienvenue sur mon profil GitHub !
-Je suis Roméo DJOMAN, un développeur passionné avec un parcours singulier : une transition de la recherche scientifique en Biologie au développement d'applications web et mobiles.
+# Roméo DJOMAN
+### Ingénieur Bio-informaticien | Développeur Full-Stack
 
-### 🌱 Mon parcours
-Diplômé en Sciences du Végétal (Master 2), j'ai travaillé pendant plusieurs années sur des projets innovants en phytopathologie, microbiologie, et biologie moléculaire. De l'élaboration de protocoles expérimentaux à la rédaction d'articles scientifiques.
-Plus récemment, j'ai entrepris une reconversion professionnelle pour devenir développeur, avec une expérience en Java, Spring, PHP, Symfony, Javascript et Angular grâce à des projets concrets en entreprise et personnels.
+> De la paillasse du laboratoire au clavier de développeur : je transforme les défis scientifiques en solutions logicielles robustes et intuitives.
 
-### 👀 Ce qui m'intéresse
-L'innovation technologique, et les projets combinant la science et l'informatique. Mon objectif est de créer des applications intuitives, utiles, et performantes.
+---
 
-### 💞️ Je collabore sur
-Des projets de conception d'applications web, des sites ecommerce, et des plateformes scientifiques. Je suis particulièrement intéressé par les initiatives mêlant data science, écologie, et technologie.
+### 👨‍💻 À propos de moi
 
-### 📫 Comment me contacter
-- 📧 romeo.djoman@outlook.fr
-- 📱 +33 6 46 40 05 68
+Développeur passionné avec une double culture en **biologie moléculaire** (Master AgroParisTech) et en **ingénierie logicielle**. Fort d'une première expérience en recherche (phytopathologie, microbiologie), j'ai cultivé une rigueur analytique et une approche méthodique que j'applique aujourd'hui au développement web.
 
-### ⚡ Fun fact
-J'aime explorer les parallèles entre le monde vivant et les systèmes informatiques, et je trouve souvent de l'inspiration dans les écosystèmes biologiques pour concevoir des architectures logicielles.
-<br>Quand je ne suis pas en train de coder ou de résoudre des problématiques scientifiques, je me ressource dans trois grandes passions :
-- Les voyages entre amis, qui me permettent de partager des moments inoubliables.
-- La natation, qui m'apprend la persévérance et m'aide à me recentrer.
-- La musique, qui alimente ma créativité et mon sens de l'harmonie.
+Ma reconversion m'a permis de maîtriser l'écosystème **Java/Spring** et **Angular**, en réalisant des projets concrets qui démontrent ma capacité à construire des applications full-stack performantes et sécurisées.
 
+- 🌱 **Mon ambition :** Mettre ma rigueur scientifique au service de la création d'applications web, en particulier à l'intersection de la science et de la technologie.
+- 👀 **Ce qui me motive :** Concevoir des outils qui ont un impact réel, qu'il s'agisse d'optimiser la recherche ou de simplifier des processus complexes.
+- 💞️ **Je suis ouvert à collaborer** sur des projets open-source en bio-informatique, data science ou sur des thématiques écologiques.
 
-<!---
-romeoDjoman/romeoDjoman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+### 🛠️ Mes Outils & Technologies
+
+Voici les technologies avec lesquelles je travaille le plus :
+
+| Backend         | Frontend                | Data & Bio-info   | Outils & DevOps        |
+| --------------- | ----------------------- | ----------------- | ---------------------- |
+| `Java`          | `Angular`               | `R` / `Rstudio`   | `Git` / `GitHub`       |
+| `Spring Boot`   | `TypeScript`            | `Python`          | `Docker`               |
+| `Spring Security` | `JavaScript (ES6+)`     | `SQL` (`PostgreSQL`) | `Linux` / `Bash`       |
+| `JPA` / `Hibernate`| `HTML5` / `SCSS`        | `BLAST` / `NCBI`  | `Maven` / `IntelliJ`   |
+| `PHP` / `Symfony` | `RxJS`                  | `QTL` / `GWAS`    | `Postman`              |
+
+---
+
+### ✨ Ma Philosophie : Le Code comme Écosystème
+
+> J'aime explorer les parallèles entre les écosystèmes biologiques et les architectures logicielles. La résilience d'une forêt, l'efficacité d'une cellule... tout est source d'inspiration pour concevoir des systèmes informatiques durables et évolutifs.
+
+---
+
+### 🚀 Mes Projets Clés
+
+Voici une sélection de projets qui illustrent mes compétences. N'hésitez pas à explorer les dépôts !
+
+<table>
+  <tr>
+    <td width="50%">
+      <a href="URL_VERS_VOTRE_PROJET_PHYTOMARKER_DB">
+        <strong>PhytoMarker-DB | Recherche en Génétique Végétale</strong>
+      </a>
+      <br />
+      <p>Application web full-stack pour la recherche et la visualisation de données génétiques, avec un pedigree interactif en <strong>D3.js</strong> et des dashboards statistiques.</p>
+      <small><i>Technologies : Angular, Java/Spring Boot, PostgreSQL, D3.js, Ngx-charts</i></small>
+    </td>
+    <td width="50%">
+      <a href="URL_VERS_VOTRE_PROJET_GENOTRACK_LIMS">
+        <strong>GenoTrack-LIMS | Gestion de Laboratoire</strong>
+      </a>
+      <br />
+      <p>Système de traçabilité d'échantillons biologiques avec authentification sécurisée (JWT) et gestion des rôles (Technicien, Chercheur).</p>
+      <small><i>Technologies : Angular, Java/Spring Boot, Spring Security, PostgreSQL</i></small>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📫 Restons Connectés
+
+Je suis toujours partant pour discuter de technologies, de science ou de nouvelles opportunités.
+
+- 📧 **Email :** [romeo.djoman@outlook.fr](mailto:romeo.djoman@outlook.fr)
+- 💼 **LinkedIn :** [linkedin.com/in/romeodjoman](https://www.linkedin.com/in/romeodjoman) <!-- Mettez le bon lien ! -->
+
+<br />
+
+> ### En dehors du code...
+> 🌍 Voyages entre amis &nbsp;&nbsp; | &nbsp;&nbsp; 🏊‍♂️ Natation &nbsp;&nbsp; | &nbsp;&nbsp; 🎵 Musique
