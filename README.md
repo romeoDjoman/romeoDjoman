@@ -1,5 +1,5 @@
-# Roméo DJOMAN
-## Ingénieur Bio-informaticien & Développeur Scientifique
+# Ingénieur Bio-informaticien & Développeur Scientifique
+### Roméo DJOMAN
 
 Passionné par l’analyse de données biologiques, la génomique et le développement d’outils logiciels.
 Compétences : Python · R · Java/Spring · Angular · pipelines de données · génomique végétale.
