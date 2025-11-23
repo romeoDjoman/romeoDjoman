@@ -1,13 +1,5 @@
-# Roméo DJOMAN
-### Ingénieur Bio-informaticien | Développeur Full-Stack
-
-> De la paillasse du laboratoire au clavier de développeur : je transforme les défis scientifiques en solutions logicielles robustes et intuitives.
-
----
-
-### 👨‍💻 À propos de moi
-
-# Roméo DJOMAN – Ingénieur Bio-informaticien & Développeur Scientifique
+# Roméo DJOMAN – 
+## Ingénieur Bio-informaticien & Développeur Scientifique
 
 Passionné par l’analyse de données biologiques, la génomique et le développement d’outils logiciels.
 Compétences : Python · R · Java/Spring · Angular · pipelines de données · génomique végétale.
