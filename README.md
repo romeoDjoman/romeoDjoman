@@ -1,4 +1,4 @@
-# 👋 Salut, je suis [Ton Nom]
+# Je suis Roméo Djoman
 
 🧬 **Développeur scientifique** et **Bioinformaticien junior** passionné par l'analyse de données génomiques
 
