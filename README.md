@@ -1,34 +1,17 @@
-# Ingénieur Bio-informaticien & Développeur Scientifique
-### Roméo DJOMAN
+# 👋 Salut, je suis [Ton Nom]
 
-Passionné par l’analyse de données biologiques, la génomique et le développement d’outils logiciels.
-Compétences : Python · R · Java/Spring · Angular · pipelines de données · génomique végétale.
+🧬 **Développeur scientifique** et **Bioinformaticien junior** passionné par l'analyse de données génomiques
 
-### Projets phares
-- Pipeline RNA-seq-Junior : traitement de données RNA-seq depuis FASTQ jusqu’à visualisation.
-- Analyse GWAS simulée : script Python/R pour l’identification de QTL sur génome végétal.
-- Plateforme de gestion de données scientifiques : projet indépendant Java/Spring/Angular.
+## 🔬 Projets
+- [Analyseur FASTA](github.com/romeoDjoman/fasta-analyzer) - Python
+- [Pipeline RNA-seq](github.com/ton-username/rnaseq-pipeline) - Bash/Python
+- [Stats génomiques](github.com/ton-username/genomic-stats-r) - R
 
----
+## 🛠️ Compétences
+- Bioinformatique 
+Python • R • Bash • Git • Bioinformatique
 
-### 🛠️ Mes Outils & Technologies
+- Dev 
+Java/Spring • Angular • JavaScript • React
 
-Voici les technologies avec lesquelles je travaille le plus :
-
-| Backend         | Frontend                | Data & Bio-info   | Outils & DevOps        |
-| --------------- | ----------------------- | ----------------- | ---------------------- |
-| `Java`          | `Angular`               | `R` / `Rstudio`   | `Git` / `GitHub`       |
-| `Spring Boot`   | `TypeScript`            | `Python` `BioPython`        | `Docker`               |
-| `Spring Security` | `JavaScript (ES6+)`     | `SQL` (`PostgreSQL`) | `Linux` / `Bash`       |
-| `JPA` / `Hibernate`| `HTML5` / `SCSS`        | `BLAST` / `NCBI`  | `Maven` / `IntelliJ`   |
-| `PHP` / `Symfony` | `RxJS`                  | `QTL` / `GWAS`    | `Postman`              |
-
----
-
-- 📧 **Email :** [romeo.djoman@outlook.fr](mailto:romeo.djoman@outlook.fr)
-- 💼 **LinkedIn :** [linkedin.com/in/romeodjoman](https://www.linkedin.com/in/romeodjoman) <!-- Mettez le bon lien ! -->
-
-<br />
-
-> ### En dehors du code...
-> 🌍 Voyages entre amis &nbsp;&nbsp; | &nbsp;&nbsp; 🏊‍♂️ Natation &nbsp;&nbsp; | &nbsp;&nbsp; 🎵 Musique
+📫 Contact : romeo.djoman@outlook.fr
