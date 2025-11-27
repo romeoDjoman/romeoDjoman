@@ -3,7 +3,7 @@
 🧬 **Développeur scientifique** et **Bioinformaticien junior** passionné par l'analyse de données génomiques
 
 ## 🔬 Projets
-- [Analyseur FASTA](github.com/romeoDjoman/fasta-analyzer) - Python
+- [Analyseur FASTA](/fasta-analyzer) - Python
 - [Pipeline RNA-seq](github.com/ton-username/rnaseq-pipeline) - Bash/Python
 - [Stats génomiques](github.com/ton-username/genomic-stats-r) - R
 
