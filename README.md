@@ -8,10 +8,10 @@
 - [Stats génomiques](https://github.com/romeoDjoman/genomic-stats-r) - R
 
 ## 🛠️ Compétences
-- Bioinformatique 
+- Bioinformatique <br>
 Python • R • Bash • Git • Bioinformatique
 
-- Dev 
+- Dev <br>
 Java/Spring • Angular • JavaScript • React
 
 📫 Contact : romeo.djoman@outlook.fr
